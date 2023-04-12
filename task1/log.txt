@@ -1,0 +1,18 @@
+PS C:\Users\fpm.zuevNA\myRepository> git log
+commit 605065a217e5861833d56b6de8fcf3a3e4af6be0 (HEAD -> master)
+Author: ATomShermental <nike123a44@gmail.com>
+Date:   Wed Apr 12 13:29:13 2023 +0300
+
+    update status.txt after .gitignore
+
+commit 56d757cfd73d34ce2f03ddcb1ea0e36f287b73aa
+Author: ATomShermental <nike123a44@gmail.com>
+Date:   Wed Apr 12 13:28:30 2023 +0300
+
+    add status.txt before .gitignore
+
+commit b6dd5cdb2f603ba68557d832f14648241933eed3
+Author: ATomShermental <nike123a44@gmail.com>
+Date:   Wed Apr 12 13:27:23 2023 +0300
+
+    add .gitignore
