@@ -8,3 +8,9 @@ Untracked files:
         task1/
 
 nothing added to commit but untracked files present (use "git add" to track)
+
+
+PS C:\Users\fpm.zuevNA\myRepository> git status
+On branch master
+nothing to commit, working tree clean
+PS C:\Users\fpm.zuevNA\myRepository>
